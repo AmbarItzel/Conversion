@@ -12,3 +12,6 @@ es darle como un valor o un comportamiento a un objego, decirle que es lo que pu
 
 #### 4. Explicar que es un constructor
 es cuando creas un nuevo objeto y le das los valores, atributos desde el principio, es decir que desde ahi lo puedes inicializar
+
+#### 5. Explicar que es un modificador de acceso
+Son los permisos que le puedes dar a cierta cosa, en donde se pueden utilizar , los cuales serian: publicos, privados
