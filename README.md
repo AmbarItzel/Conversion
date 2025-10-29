@@ -18,3 +18,6 @@ Son los permisos que le puedes dar a cierta cosa, en donde se pueden utilizar , 
 
 #### 6. Explicar que es herencia
 Es cuando se toman datos de otra clase, pueden ser atributos y metodos y estos se reultlizan para que sea un codigo mas ordenado y eficiente
+
+#### 8. Diferencia entre metodo y función
+La funcion es cuando puede realizar sus acciones sin importar lo que este afuera de ella, ella puede trabajar sola y el metodo es cuando necesita datos, atributos y funcionamiento, ya que esta tiene que pertenecer a una o clase o a un objeto
