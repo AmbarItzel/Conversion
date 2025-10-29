@@ -3,3 +3,6 @@ de segundos a: minutos, dias, horas, meses
 
 #### 1. Explicar que es un objeto
 Un obejeto puede ser una cosa que tiene carcateristicas, puede ser real 
+
+#### 2. Explicar que es un atributo de un objeto
+son las caracteristicas o un dato que tiene un objeto, por ejemplo en una persona podria ser alto, gordo, moreno…
