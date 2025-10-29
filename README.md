@@ -21,3 +21,6 @@ Es cuando se toman datos de otra clase, pueden ser atributos y metodos y estos s
 
 #### 8. Diferencia entre metodo y función
 La funcion es cuando puede realizar sus acciones sin importar lo que este afuera de ella, ella puede trabajar sola y el metodo es cuando necesita datos, atributos y funcionamiento, ya que esta tiene que pertenecer a una o clase o a un objeto
+
+#### 9. Explicar que es instanciar un objeto
+crear una copia real de una clase en memoria para poder usarla. La clase es el molde y el objeto es el resultado.
