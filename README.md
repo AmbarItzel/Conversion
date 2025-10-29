@@ -15,3 +15,6 @@ es cuando creas un nuevo objeto y le das los valores, atributos desde el princip
 
 #### 5. Explicar que es un modificador de acceso
 Son los permisos que le puedes dar a cierta cosa, en donde se pueden utilizar , los cuales serian: publicos, privados
+
+#### 6. Explicar que es herencia
+Es cuando se toman datos de otra clase, pueden ser atributos y metodos y estos se reultlizan para que sea un codigo mas ordenado y eficiente
